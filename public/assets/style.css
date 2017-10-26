@@ -1,0 +1,60 @@
+html {
+	background-image: url("burger.jpg");
+}
+
+body {
+	font-family: 'Indie Flower', cursive !important;
+	height: auto !important;
+	width: 100% !important; 
+	height: 80% !important;
+	background:#778899!important;
+	opacity: 0.8 !important;
+	margin-top: 100px !important;
+	font-size: 23px !important;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 40px !important;
+	font-weight: bold !important;
+	margin-right: 80px !important;
+
+
+}
+
+form.form-inline {
+	margin-bottom: 25px !important;
+}
+
+.btn {
+	background-color: #20B2AA !important;
+	color: black !important;
+	font-weight: bold;
+	font-size: 20px !important;
+	margin-top: 15px;
+    border-radius: 25px !important;
+
+}
+.btn1{
+    margin-left: 10px !important;
+}
+
+.panel {
+	margin: 10px;
+	margin-left: 60px !important;
+	
+
+}
+
+.panel-heading {
+	background-color: #20B2AA !important;
+}
+
+#burgers-added {
+	background-color: #87CEFA;
+
+}
+
+#burgers-devoured {
+	background-color: #87CEFA;
+}
